@@ -5,6 +5,7 @@ A partir de los registros de aterrizajes y despegues procesados por la Administr
 
 ## 📂 Dataset
 - Fuente: [Secretaria de Transporte](https://datos.transporte.gob.ar/dataset/aterrizajes-y-despegues-procesados-por-la-administracion-nacional-de-aviacion-civil-anac/archivo/7b6d0103-0a69-4c67-aed9-33cb58ae12f5)
+- [Descargar Dataset crudo](https://datos.transporte.gob.ar/dataset/21038a1a-c3c7-4494-b76a-3a2a8fbb83b5/resource/7b6d0103-0a69-4c67-aed9-33cb58ae12f5/download/202609-informe-ministerio-vf-matricula.csv)
 - Registros: 419262
 - Variables:
   1. Fecha UTC
@@ -20,6 +21,7 @@ A partir de los registros de aterrizajes y despegues procesados por la Administr
   11. Pasajeros                          
   12. PAX                                
   13. Calidad dato
+
   
 ## :mag:Investigación
 ### Con Google Colab
