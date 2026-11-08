@@ -39,10 +39,9 @@ A partir de los registros de aterrizajes y despegues procesados por la Administr
 - Power BI
 
 ## 📈 Resultados
-Considerando datos oficiales, desde comienzo de año hasta el mes de Julio de 2026 transitaron aproximadamente 20 millones de pasajeros en territorio Argentino. El 52,67% lo hizo por medio de vuelos nacionales (domésticos). Aeroparque Jorge Newbery (AER) fue el aeropuerto más concurrido en ese período.
+Considerando datos oficiales, desde comienzo de año hasta el mes de Julio de 2026 transitaron aproximadamente 20 millones de pasajeros en territorio Argentino. El 52,67% lo hizo por medio de vuelos nacionales (domésticos). [Aeroparque Jorge Newbery](dashboard/dashboard.pdf) (AER) fue el aeropuerto más concurrido en ese período.
 
 <img width="1195" height="672" alt="dashboard" src="https://github.com/user-attachments/assets/65ea0add-cbd6-4de7-831b-89bb3d369aca" />
-
 
 
 ## 👤 Autor
